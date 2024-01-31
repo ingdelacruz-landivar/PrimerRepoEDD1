@@ -1,0 +1,16 @@
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\net5.0\EstructuraDeDatos.exe
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\net5.0\EstructuraDeDatos.deps.json
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\net5.0\EstructuraDeDatos.runtimeconfig.json
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\net5.0\EstructuraDeDatos.runtimeconfig.dev.json
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\net5.0\EstructuraDeDatos.dll
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\net5.0\ref\EstructuraDeDatos.dll
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\bin\Debug\net5.0\EstructuraDeDatos.pdb
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\net5.0\EstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\net5.0\EstructuraDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\net5.0\EstructuraDeDatos.AssemblyInfoInputs.cache
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\net5.0\EstructuraDeDatos.AssemblyInfo.cs
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\net5.0\EstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\net5.0\EstructuraDeDatos.dll
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\net5.0\ref\EstructuraDeDatos.dll
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\net5.0\EstructuraDeDatos.pdb
+C:\Users\HP15DW004LA\source\repos\EstructuraDeDatos\EstructuraDeDatos\obj\Debug\net5.0\EstructuraDeDatos.genruntimeconfig.cache
